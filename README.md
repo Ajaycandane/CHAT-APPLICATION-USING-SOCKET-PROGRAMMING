@@ -1,1 +1,2 @@
 # CHAT-APPLICATION-USING-SOCKET-PROGRAMMING
+This project implements a chat application with a client-server architecture using Python, Tkinter, socket programming, and threading. The client side features a Tkinter-based GUI, allowing users to enter their names, join the chat, send messages, and view the conversation. The server manages multiple client connections, broadcasting messages to all connected clients.
